@@ -17,3 +17,4 @@ tldextract
 python-dateutil
 markupsafe
 ua_parser
+pyamf @ git+https://github.com/FraMecca/pyamf
